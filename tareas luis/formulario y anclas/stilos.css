@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+body {
+
+    font-family: 'Poppins', Arial, sans-serif;
+
+    background-color: #fff5f7;
+
+    margin: 0;
+
+    padding: 15px;
+
+    text-align: center;
+
+}
+h1 {color: #583047;}
+
+nav {
+
+    background-color: #fff5f7;
+
+    padding: 15px;
+
+    text-align: center;
+
+}nav a {
+
+    color: #583047;
+
+    margin: 0 15px;
+     text-decoration: none;
+
+    font-weight: 500;
+
+}
+nav a:hover {
+
+    color: #be185d;
+
+}
+label {   display: block;
+
+    text-align: center;
+
+    margin-bottom: 1px;
+
+    color: #583047;
+
+    font-weight: 500;}
+
+    input {
+    width: 100%;
+    max-width: 300px;
+    display: block;
+     margin: 0 auto 1px;
+    padding: 13px 16px;
+    border: 2px solid #f9a8d4;
+    border-radius: 12px;
+    background-color: #fff;
+    font-size: 15px;
+    color: #583047;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(255, 150, 174, 0.1);
+}
+
+input:focus {
+    border-color: #f472b6;
+    box-shadow: 0 0 0 4px rgba(244, 114, 182, 0.2);
+    outline: none;
+    transform: scale(1.02);
+}
+button, .boton {
+    display: block;
+    margin: 20px auto 0;
+    background: linear-gradient(to right, #ff96ae, #ffb6c1);
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    padding: 13px 32px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(255, 150, 174, 0.3);
+}
+
+button:hover, .boton:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(255, 150, 174, 0.4);
+    background: linear-gradient(to right, #ff7aa2, #ff96ae);
+}
+select {width: 100%;
+    max-width: 300px;
+    display: block;
+     margin: 0 auto 1px;
+    padding: 13px 16px;
+    border: 2px solid #f9a8d4;
+    border-radius: 12px;
+    background-color: #fff;
+    font-size: 15px;
+    color: #583047;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(255, 150, 174, 0.1);
+
+}
+select:hover {    border-color: #f472b6;
+    box-shadow: 0 0 0 4px rgba(244, 114, 182, 0.2);
+    outline: none;
+    transform: scale(1.02);}
+h3 {color: #583047;}
+
+
+
+
+

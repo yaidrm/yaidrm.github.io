@@ -1,0 +1,13 @@
+body {font-family: 'Courier New', Courier, monospace;}
+h1 {text-align: center; color: rgb(77, 52, 68);}
+table {width: 100%; border-collapse: collapse; text-align: center; vertical-align: middle; }
+th, td {border: 1px solid #333;padding: 10px 8px; text-align: center; vertical-align: middle;}
+
+th {background-color: #a1ffa2; font-weight: bold;}
+
+td {font-size: 1rem;}
+img {
+  display: block;
+  margin: 0 auto;
+  color: rgb(10, 90, 200);
+}

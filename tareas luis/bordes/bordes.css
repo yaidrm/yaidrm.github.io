@@ -1,0 +1,15 @@
+.div1, .div2, .div3, .div4, .div5 {
+    height: 500px;
+    width: 600px;
+    border: solid 2px;
+    margin: 20px auto;        
+    background-size: cover;    
+    border-radius: 10px;
+    background-position: center;
+}
+
+.div1 { background-image: url(../img/images.webp); }
+.div2 { background-image: url(../img/download\ \(7\).jpg); }
+.div3 { background-image: url(../img/Face\ Reveal\ 😮.jpg); }
+.div4 { background-image: url(../img/download\ \(5\).jpg); }
+.div5 { background-image: url(../img/download\ \(4\).jpg); }
